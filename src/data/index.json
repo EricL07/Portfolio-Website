@@ -1,0 +1,37 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Full-Stack Web Development",
+            "description": "Experience building web applications with React for the front end and exploring back-end frameworks. Skilled at creating user-friendly interfaces and implementing authentication and data handling."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Problem-Solving & Debugging",
+            "description": "Strong ability to troubleshoot coding issues and find creative solutions, demonstrated through independent projects like developing an online store app."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "Teamwork & Communication",
+            "description": "Developed through work as a waiter and assistant manager, balancing responsibilities, collaborating with teammates, and delivering clear, friendly service in fast-paced environments."
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Technical Adaptability",
+            "description": "Quick to learn new tools and technologies. Comfortable with GitHub and VS Code while being able to apply them effectively in both academic and professional projects."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/Application-Home-Screen.png",
+            "title": "Online Store App",
+            "description": "Technologies: React, Supabase Authentication. Developed a front-end android app with user authentication and a responsive design. Implemented login and registration using Supabase through React. Currently expanding features to include product listings and checkout functionality. This project demonstrates my ability to build scalable front-end applications and integrate authentication systems.",
+            "link": "View In Github"
+        }
+    ]
+}
